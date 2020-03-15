@@ -3,4 +3,5 @@
     <string name="received_blg">Measured BLG</string>
     <string name="wanted_blg">Wanted BLG</string>
     <string name="wot_volume">Current wot volume</string>
+    <string name="result">You need to add %1$s liters of water.</string>
 </resources>
