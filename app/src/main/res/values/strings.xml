@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Home Brew BLG Dilution Calculator</string>
+    <string name="received_blg">Measured BLG</string>
+    <string name="wanted_blg">Wanted BLG</string>
+    <string name="wot_volume">Current wot volume</string>
+</resources>

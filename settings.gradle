@@ -1,0 +1,2 @@
+rootProject.name='Home Brew BLG Dilution Calculator'
+include ':app'
